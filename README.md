@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Souta!
 
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D" align="right" />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CatSouta.visitor-badge)
 
 ### Links
-
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D" align="right" />
 
 - [Blog](https://souta.cc)
 - [Bilibili](https://space.bilibili.com/20302686)
