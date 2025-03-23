@@ -26,6 +26,6 @@
 ### Some data
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CatSouta&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" />
-  <img src="https://api.githubtrends.io/user/svg/CatSouta/repos?time_range=one_year&theme=classic" />
+  <img src="https://api.githubtrends.io/user/svg/CatSouta/langs?time_range=one_year&include_private=True&theme=classic" />
+  <img src="https://api.githubtrends.io/user/svg/CatSouta/repos?time_range=one_year&include_private=true&theme=classic" />
 </p>
