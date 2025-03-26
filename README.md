@@ -17,7 +17,7 @@
 
 ### Skills
 
-![skills](https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,react,php,go,docker,git,webpack,vite,linux,debian&theme=light)
+![skills](https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,php,go,docker,git,webpack,vite,linux,debian&theme=light)
 
 ### Studying
 
