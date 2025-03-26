@@ -11,9 +11,17 @@
 - [Weibo](https://weibo.com/u/7047992638)
 - [E-mail](mailto:im@souta.cc)
 
+### IDE
+
+![ide](https://skillicons.dev/icons?i=vscode,idea&theme=light)
+
 ### Skills
 
-![skills](https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,react,php,go,docker,git,webpack,vite,vscode,idea,linux,debian&theme=light)
+![skills](https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,react,php,go,docker,git,webpack,vite,linux,debian&theme=light)
+
+### Studying
+
+![studying](https://skillicons.dev/icons?i=react,electron,java&theme=light)
 
 ### Masterpieces
 
