@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Souta!
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D" align="right" />
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D&theme=transparent" align="right" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CatSouta.visitor-badge)
 
@@ -10,17 +10,25 @@
 - [Telegram](https://t.me/catsouta)
 - [E-mail](mailto:im@souta.cc)
 
-### IDE
-
-![ide](https://skillicons.dev/icons?i=vscode,idea&theme=light)
-
 ### Skills
 
-![skills](https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,php,go,docker,git,webpack,vite,linux,debian&theme=light)
+![skills](https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,php,go,docker,git,webpack,vite&theme=light#gh-light-mode-only)
+![skills](https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,php,go,docker,git,webpack,vite&theme=dark#gh-dark-mode-only)
 
 ### Studying
 
-![studying](https://skillicons.dev/icons?i=react,nextjs,electron,java&theme=light)
+![studying](https://skillicons.dev/icons?i=react,nextjs,electron,java&theme=light#gh-light-mode-only)
+![studying](https://skillicons.dev/icons?i=react,nextjs,electron,java&theme=dark#gh-dark-mode-only)
+
+### IDE
+
+![ide](https://skillicons.dev/icons?i=vscode,idea&theme=light#gh-light-mode-only)
+![ide](https://skillicons.dev/icons?i=vscode,idea&theme=dark#gh-dark-mode-only)
+
+### Devices
+
+![devices](https://skillicons.dev/icons?i=windows,apple,linux,debian&theme=light#gh-light-mode-only)
+![devices](https://skillicons.dev/icons?i=windows,apple,linux,debian&theme=dark#gh-dark-mode-only)
 
 ### GPG Fingerprint
 
@@ -39,6 +47,8 @@ DE4D 020D 3E1E C8DD 9B3A 3175 EB01 FB1E 23A5 F49A
 ### Some data
 
 <p>
-  <img src="https://api.githubtrends.io/user/svg/CatSouta/langs?time_range=one_year&include_private=True&theme=classic" />
-  <img src="https://api.githubtrends.io/user/svg/CatSouta/repos?time_range=one_year&include_private=true&theme=classic" />
+  <img src="https://api.githubtrends.io/user/svg/CatSouta/langs?time_range=one_year&include_private=True&theme=classic#gh-light-mode-only" />
+  <img src="https://api.githubtrends.io/user/svg/CatSouta/langs?time_range=one_year&include_private=True&theme=dark#gh-dark-mode-only" />
+  <img src="https://api.githubtrends.io/user/svg/CatSouta/repos?time_range=one_year&include_private=true&theme=classic#gh-light-mode-only" />
+  <img src="https://api.githubtrends.io/user/svg/CatSouta/repos?time_range=one_year&include_private=true&theme=dark#gh-dark-mode-only" />
 </p>
