@@ -21,13 +21,13 @@
 
 ### Studying
 
-![studying](https://skillicons.dev/icons?i=react,electron,java&theme=light)
+![studying](https://skillicons.dev/icons?i=react,nextjs,electron,java&theme=light)
 
 ### Masterpieces
 
 - [SPlayer](https://github.com/CatSouta/splayer-js)
   - A lovely HTML5 square music player
-- MiniHBUT
+- [MiniHBUT](https://github.com/HBUTLife)
   - A wechat mini-program that provides HBUTers with convenient digital lifestyle services.
   - Has nearly 30,000 users, with about 8,000 daily active users till 2025-03-23.
 
