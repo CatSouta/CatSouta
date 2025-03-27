@@ -7,8 +7,7 @@
 ### Links
 
 - [Blog](https://souta.cc)
-- [Bilibili](https://space.bilibili.com/20302686)
-- [Weibo](https://weibo.com/u/7047992638)
+- [Telegram](https://t.me/catsouta)
 - [E-mail](mailto:im@souta.cc)
 
 ### IDE
@@ -29,7 +28,7 @@
 DE4D 020D 3E1E C8DD 9B3A 3175 EB01 FB1E 23A5 F49A
 ```
 
-### Masterpieces
+### Works
 
 - [SPlayer](https://github.com/CatSouta/splayer-js)
   - A lovely HTML5 square music player
