@@ -23,6 +23,12 @@
 
 ![studying](https://skillicons.dev/icons?i=react,nextjs,electron,java&theme=light)
 
+### GPG Fingerprint
+
+```
+DE4D 020D 3E1E C8DD 9B3A 3175 EB01 FB1E 23A5 F49A
+```
+
 ### Masterpieces
 
 - [SPlayer](https://github.com/CatSouta/splayer-js)
