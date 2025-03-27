@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Souta!
 
-<picture style="float: right;">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D&theme=dark" />
-  <img alt="github-stats" src="https://github-readme-stats-mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D&theme=default" />
+  <img alt="github-stats" src="https://github-readme-stats-mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D&theme=default" align="right" />
 </picture>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CatSouta.visitor-badge)
@@ -16,29 +16,29 @@
 ### Skills
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,php,go,docker,git,webpack,vite&theme=dark" />
-  <img alt="skills" src="https://skillicons.dev/icons?i=html,js,ts,css,scss,vue,nuxt,php,go,docker,git,webpack,vite&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Cjs%2Cts%2Ccss%2Cscss%2Cvue%2Cnuxt%2Cphp%2Cgo%2Cdocker%2Cgit%2Cwebpack%2Cvite&theme=dark" />
+  <img alt="skills" src="https://skillicons.dev/icons?i=html%2Cjs%2Cts%2Ccss%2Cscss%2Cvue%2Cnuxt%2Cphp%2Cgo%2Cdocker%2Cgit%2Cwebpack%2Cvite&theme=light" />
 </picture>
 
 ### Studying
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,electron,java&theme=dark" />
-  <img alt="studying" src="https://skillicons.dev/icons?i=react,nextjs,electron,java&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Celectron%2Cjava&theme=dark" />
+  <img alt="studying" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Celectron%2Cjava&theme=light" />
 </picture>
 
 ### IDE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,idea&theme=dark" />
-  <img alt="ide" src="https://skillicons.dev/icons?i=vscode,idea&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cidea&theme=dark" />
+  <img alt="ide" src="https://skillicons.dev/icons?i=vscode%2Cidea&theme=light" />
 </picture>
 
 ### Devices
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows,apple,linux,debian&theme=dark" />
-  <img alt="devices" src="https://skillicons.dev/icons?i=windows,apple,linux,debian&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows%2Capple%2Clinux%2Cdebian&theme=dark" />
+  <img alt="devices" src="https://skillicons.dev/icons?i=windows%2Capple%2Clinux%2Cdebian&theme=light" />
 </picture>
 
 ### GPG Fingerprint
