@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Souta!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D&theme=dark" />
-  <img alt="github-stats" src="https://github-readme-stats-mrdulin.vercel.app/api?username=CatSouta&count_private=true&show_icons=true&hide_border=true&icon_color=F5B83D&title_color=F5B83D&theme=default" align="right" />
-</picture>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CatSouta.visitor-badge)
 
 ### Links
@@ -59,11 +54,11 @@ DE4D 020D 3E1E C8DD 9B3A 3175 EB01 FB1E 23A5 F49A
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/CatSouta/langs?time_range=one_year&include_private=true&theme=dark" />
-    <img alt="langs" src="https://api.githubtrends.io/user/svg/CatSouta/langs?time_range=one_year&include_private=true&theme=classic" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-souta.vercel.app/api?username=CatSouta&show_icons=true&theme=dark" />
+    <img alt="langs" src="https://github-readme-stats-souta.vercel.app/api?username=CatSouta&show_icons=true" height="180em" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.githubtrends.io/user/svg/CatSouta/repos?time_range=one_year&include_private=true&theme=dark" />
-    <img alt="repos" src="https://api.githubtrends.io/user/svg/CatSouta/repos?time_range=one_year&include_private=true&theme=classic" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-souta.vercel.app/api/top-langs/?username=CatSouta&layout=compact&theme=dark" />
+    <img alt="repos" src="https://github-readme-stats-souta.vercel.app/api/top-langs/?username=CatSouta&layout=compact" height="180em" />
   </picture>
 </p>
