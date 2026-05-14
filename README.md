@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Souta!
 
-Also known at work as: Sion Gui.
+Also known at work as: Evan Gui.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CatSouta.visitor-badge)
 
