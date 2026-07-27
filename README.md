@@ -35,7 +35,7 @@ Also known at work as: Evan Gui.
 
 - [SPlayer](https://github.com/CatSouta/splayer-js)
   - A lovely HTML5 square music player.
-- [MiniHBUT](https://github.com/HBUTLife)
+- [MiniHBUT](https://github.com/hbut-it)
   - A WeChat mini program that provides HBUTers with convenient digital lifestyle services.
   - It has nearly 33,000 users, with about 9,000 daily active users as of 2025-10-27.
 
