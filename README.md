@@ -8,7 +8,7 @@ Also known at work as: Evan Gui.
 
 - [Blog](https://souta.cc)
 - [E-mail](mailto:im@souta.cc)
-- [Telegram](https://t.me/catsouta)
+- [Telegram](https://t.me/SoutaMeow)
 - [Bilibili](https://space.bilibili.com/20302686)
 
 ### 🛠️ Tech Stack
